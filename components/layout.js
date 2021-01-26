@@ -3,7 +3,7 @@ import styles from "./layout.module.css";
 import utilStyles from "../styles/utils.module.css";
 import Link from "next/link";
 
-const name = "Muhammad Mamooji";
+const name = "Muhammad Umar Mamooji";
 export const siteTitle = "Next.js Sample Website";
 
 const Layout = ({ children, home }) => {
